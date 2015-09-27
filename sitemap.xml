@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>http://martianmartin.github.io/archive.html</loc>
-  <lastmod>2015-09-26T21:56:00Z</lastmod>
+  <lastmod>2015-09-27T01:01:00Z</lastmod>
  </url>
  <url>
   <loc>http://martianmartin.github.io/categories/</loc>
@@ -32,5 +32,9 @@
  <url>
   <loc>http://martianmartin.github.io/posts/my-first-test-post/</loc>
   <lastmod>2015-09-26T21:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://martianmartin.github.io/posts/test-ipython-post/</loc>
+  <lastmod>2015-09-27T01:01:00Z</lastmod>
  </url>
 </urlset>
